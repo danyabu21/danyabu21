@@ -4,7 +4,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-yabu-b636a1240/)
-[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dan_yabu/)
+
 
 
 ![Daniel Yabu GitHub stats](https://github-readme-stats.vercel.app/api?username=danyabu21&show_icons=true&theme=tokyonight)
