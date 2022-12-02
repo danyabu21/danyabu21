@@ -1,4 +1,4 @@
-### Olá! Eu seja bem-vindo à minha página do GitHub, meu nome é Daniel Yabu!!! 👋😄
+### Olá! Seja bem-vindo à minha página do GitHub, meu nome é Daniel Yabu! 👋😄
 
 
 
