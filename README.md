@@ -6,7 +6,6 @@
 
 
 
-`![Daniel Yabu GitHub stats](https://github-readme-stats.vercel.app/api?username=danyabu21&show_icons=true&theme=tokyonight) `
 
 
 
